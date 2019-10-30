@@ -67,17 +67,36 @@ h1, h2, h3, h4, h5 {
 
 #mainNav{
 	color:gray ;
-	padding: 20px;
+
 	
 }
 li{
 	display: inline;
-	padding: 5%;
+	padding: 1% 5% 5% 5% ;
 	float: left;
+	
 }
 .headerImg{
 	float:right;
-	padding-top: 4%;
+	
 
 	
+}
+.Innovation img{
+position: relative;
+
+}
+header{
+	border-bottom-color: green;
+	position: relative;
+	padding-bottom: 5%;
+}
+
+.Innovation h1 {
+	font-size: 50px;
+	float:left;
+}
+
+.Innovation button{
+	float:left;
 }
