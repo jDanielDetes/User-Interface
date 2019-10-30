@@ -76,14 +76,11 @@ li{
 	float: left;
 	
 }
-.headerImg{
-	float:right;
-	
 
-	
-}
+
+
 .Innovation img{
-position: relative;
+
 
 }
 header{
@@ -94,9 +91,22 @@ header{
 
 .Innovation h1 {
 	font-size: 50px;
-	float:left;
+	
 }
 
-.Innovation button{
-	float:left;
+/* .Innovation button, h1 {
+	display: inline-block;
+	/*position: relative;
+
+} */
+.section{
+	display: inline-block;
+}
+.img{
+	display: inline-block;
+}
+
+.container{
+	width: 1300px;
+	margin: 0 auto;	
 }
